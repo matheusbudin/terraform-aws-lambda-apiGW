@@ -1,4 +1,7 @@
 # terraform-aws-lambda-apiGW
+This project makes the integration from AWS: lambda, API Gateway.
+The API gateway is a trigger to the lambda function, this api is
+configure to only have the "GET" method for now.
 
 # terraform-lambda-apiGateway
 
